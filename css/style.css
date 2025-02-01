@@ -130,7 +130,7 @@ header {
     margin: 1.5rem;
     border-radius: 50%;
     max-width: 18vw;
-    border: 3px solid var(--primary-color);
+    border: 3px solid black;
 
 }
 
