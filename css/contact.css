@@ -52,7 +52,7 @@
 body{
     background-size: cover;
     position: relative;
-    background-image: url(image/contact-image.webp);
+    background-image: url(/image/contact-image.webp);
     
 }
 
