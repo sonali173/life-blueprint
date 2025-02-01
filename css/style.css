@@ -96,6 +96,8 @@ header {
 .content::after {
     content: "";
     background-image: url("../image/home-bg-image.jpg");
+
+/*     background-image: url("../image/home-bg-image.jpg"); */
 /*     background-image: url("../image/contact-image.webp"); */
 
     position: absolute;
