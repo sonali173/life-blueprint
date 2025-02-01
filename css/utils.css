@@ -1,0 +1,29 @@
+:root{
+    --primary-color: #7a0480;
+}
+
+.max-width-1{
+ max-width: 76vw;
+ 
+}
+.max-width-2{
+    max-width: 60vw;
+}
+
+.m-auto{
+margin: auto;
+}
+.m-t{
+    margin-top: 5rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    cursor: pointer;
+    color: var(--primary-color);
+}
+img:hover{
+    cursor: pointer;
+}
