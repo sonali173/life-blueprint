@@ -16,3 +16,18 @@ display: grid;
     
 
 }
+@media (max-width:990px) {
+
+    .main{
+        display: block;
+    }
+    .main-articale img{
+        max-width: 80vw;
+    }
+    .article-content{
+        font-size: 1rem;
+        max-width: 200vw;
+        gap: 2rem;
+    }
+
+}
