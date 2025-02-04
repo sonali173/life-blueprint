@@ -66,3 +66,17 @@ body{
     gap: 2rem;
     position: relative;
 }
+
+@media (max-width:990px) {
+    .social-media {
+        display: inline;
+        top: 25rem;
+        max-width: 200vw;
+        right: unset;
+    }
+    .content-text{
+        margin-left: -2rem;
+    }
+
+    
+}
