@@ -197,3 +197,35 @@ footer {
     margin-top: 4rem;
 
 }
+@media (max-width:990px) {
+    .form-control {
+        display: none;
+
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .nav-left {
+        display: inline;
+    }
+
+    .nav-left span {
+        margin-left: 5rem;
+    }
+
+    .navigation ul {
+        margin: 1.5rem 0 1rem -4rem;
+    }
+
+
+
+    .content-right img {
+        display: none;
+    }
+    .content-text p1{
+        display: none;
+    }
+
+}
